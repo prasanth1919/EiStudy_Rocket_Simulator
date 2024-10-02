@@ -37,12 +37,12 @@ java RocketLaunchSimulator
 How to Play
 When you start the simulator, it will ask you to input some details about your rocket:
 
--Fuel percentage: Enter a value between 0 and 100 (e.g., 80 for 80% fuel).
--Orbit distance: How high you want your rocket to go (in kilometers).
--Starting altitude: The altitude from where your rocket starts (in kilometers).
--Initial speed: The speed of your rocket at launch (in kilometers per hour).
--Rocket type: Choose between "light" and "heavy" rockets. Light rockets use less fuel, but heavy rockets carry more.
--Extra fuel: Want to play it safe? You can add extra fuel to your rocket if you say "yes."
+- Fuel percentage: Enter a value between 0 and 100 (e.g., 80 for 80% fuel).
+- Orbit distance: How high you want your rocket to go (in kilometers).
+- Starting altitude: The altitude from where your rocket starts (in kilometers).
+- Initial speed: The speed of your rocket at launch (in kilometers per hour).
+- Rocket type: Choose between "light" and "heavy" rockets. Light rockets use less fuel, but heavy rockets carry more.
+- Extra fuel: Want to play it safe? You can add extra fuel to your rocket if you say "yes."
 
 Commands You Can Use
 *start_checks: This command runs pre-launch checks to make sure everything is good to go.

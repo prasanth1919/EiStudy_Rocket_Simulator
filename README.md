@@ -28,20 +28,28 @@ Clone the Project:
 bash
 
 Copy code
-git clone https://github.com/your-username/rocket-launch-simulator.git
-cd rocket-launch-simulator
+- git clone `https://github.com/prasanth1919/EiStudy_Rocket_Simulator.git`
+- `cd EiStudy_Rocket_Simulator`
+
 Compile the Java Files: Before you run the simulator, you need to compile it. In your terminal, run:
 
 bash
+
 Copy code
+
 javac *.java
+
 Start the Simulation: Now you're ready to launch your rocket! Run:
 
+
 bash
+
 Copy code
+
 java RocketLaunchSimulator
 
 How to Play
+
 When you start the simulator, it will ask you to input some details about your rocket:
 
 - Fuel percentage: Enter a value between 0 and 100 (e.g., 80 for 80% fuel).
@@ -58,6 +66,7 @@ Commands You Can Use
 * exit: Want to quit? Just type exit.
 
 Example Walkthrough:
+
 Here’s an example of what it might look like:
 
 bash

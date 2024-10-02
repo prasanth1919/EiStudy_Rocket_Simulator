@@ -13,7 +13,9 @@ Features :
 
 Getting Started
 What You Need:
-Java 8 or higher installed on your machine. You can check if it's installed by running:
+Java 8 or higher installed on your machine. 
+
+You can check if it's installed by running:
 bash
 Copy java -version and paste
 
@@ -45,22 +47,23 @@ When you start the simulator, it will ask you to input some details about your r
 - Extra fuel: Want to play it safe? You can add extra fuel to your rocket if you say "yes."
 
 Commands You Can Use
-*start_checks: This command runs pre-launch checks to make sure everything is good to go.
-*launch: Start the launch and see real-time updates.
-*fast_forward X: Skip ahead by X seconds (e.g., fast_forward 5 to jump 5 seconds into the future).
-*exit: Want to quit? Just type exit.
+* start_checks: This command runs pre-launch checks to make sure everything is good to go.
+* launch: Start the launch and see real-time updates.
+* fast_forward X: Skip ahead by X seconds (e.g., fast_forward 5 to jump 5 seconds into the future).
+* exit: Want to quit? Just type exit.
 
 Example Walkthrough:
 Here’s an example of what it might look like:
 
 bash
+
 Copy code
-+Enter the initial fuel percentage (0 to 100): 80
-+Enter the target orbit distance (in km): 200
-+Enter the starting altitude (in km): 10
-+Enter the initial speed (in km/h): 1000
-+Enter the rocket type (light or heavy): light
-+Do you want to add extra fuel? (yes or no): yes
-+All systems are 'Go' for launch.
-+Enter a command (start_checks, launch, fast_forward X, or exit): launch
-+After launching, you'll see updates about your rocket’s status, and once it reaches the orbit, you’ll get a message saying the mission was successful!
++ Enter the initial fuel percentage (0 to 100): 80
++ Enter the target orbit distance (in km): 200
++ Enter the starting altitude (in km): 10
++ Enter the initial speed (in km/h): 1000
++ Enter the rocket type (light or heavy): light
++ Do you want to add extra fuel? (yes or no): yes
++ All systems are 'Go' for launch.
++ Enter a command (start_checks, launch, fast_forward X, or exit): launch
++ After launching, you'll see updates about your rocket’s status, and once it reaches the orbit, you’ll get a message saying the mission was successful!

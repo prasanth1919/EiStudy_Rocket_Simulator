@@ -150,7 +150,7 @@ Follow these instructions to set up and run the project on your local machine.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/java-design-patterns.git
+   git clone https://github.com/prasanth1919/java-design-patterns.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -220,34 +220,4 @@ Follow these instructions to set up and run the project on your local machine.
      java AdapterPattern
      ```
 
-## Usage
 
-Each Java file corresponds to a specific design pattern and contains a `main` method to demonstrate its functionality. You can explore and modify the code to better understand how each pattern works and how it can be applied to different scenarios.
-
-For example, to experiment with the **Decorator Pattern**, you can add more decorators or modify existing ones to see how the behavior of the coffee objects changes dynamically.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements, additional patterns to include, or any other enhancements, feel free to open an issue or submit a pull request.
-
-1. **Fork the Repository**
-
-2. **Create a New Branch**
-
-   ```bash
-   git checkout -b feature/NewPattern
-   ```
-
-3. **Make Your Changes**
-
-4. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add new design pattern implementation"
-   ```
-
-5. **Push to the Branch**
-
-   ```bash
-   git push origin feature/NewPattern
-   ```

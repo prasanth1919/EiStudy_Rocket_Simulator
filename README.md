@@ -1,5 +1,6 @@
 # EiStudy_Rocket_Simulator
-🚀 Rocket Launch Simulator
+🚀 
+Rocket Launch Simulator
 Welcome to the Rocket Launch Simulator! This is a fun terminal-based simulation where you can experience launching a rocket into space, separating its stages, and reaching orbit. The simulation is real-time (or fast-forwarded if you're in a hurry!) and gives you updates on how your mission is going.
 
 Features
@@ -16,8 +17,7 @@ bash
 Copy code
 java -version
 Running the Simulator:
-Clone the Project: If you haven't already, grab a copy of the project:
-
+Clone the Project:
 bash
 Copy code
 git clone https://github.com/your-username/rocket-launch-simulator.git

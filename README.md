@@ -4,12 +4,13 @@ Rocket Launch Simulator
 Welcome to the Rocket Launch Simulator! This is a fun terminal-based simulation where you can experience launching a rocket into space, separating its stages, and reaching orbit. The simulation is real-time (or fast-forwarded if you're in a hurry!) and gives you updates on how your mission is going.
 
 Features
-Pre-Launch Checks: Make sure everything is ready for launch with a simple command.
-Live Updates: See real-time updates on your rocket's fuel, altitude, speed, and stage.
-Stage Separation: Watch as the rocket automatically separates stages every 50 km of altitude gain.
-Orbit Achievement: Celebrate when your rocket successfully reaches its target orbit!
-Fast Forward: Skip the waiting by fast-forwarding through the simulation.
-Observer Notifications: Behind the scenes, the rocket sends updates to different observers (like a display and a logger).
++Pre-Launch Checks: Make sure everything is ready for launch with a simple command.
++Live Updates: See real-time updates on your rocket's fuel, altitude, speed, and stage.
++Stage Separation: Watch as the rocket automatically separates stages every 50 km of altitude gain.
++Orbit Achievement: Celebrate when your rocket successfully reaches its target orbit!
++Fast Forward: Skip the waiting by fast-forwarding through the simulation.
++Observer Notifications: Behind the scenes, the rocket sends updates to different observers (like a display and a logger).
+
 Getting Started
 What You Need:
 Java 8 or higher installed on your machine. You can check if it's installed by running:

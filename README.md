@@ -16,12 +16,17 @@ What You Need:
 Java 8 or higher installed on your machine. 
 
 You can check if it's installed by running:
+
 bash
+
 Copy java -version and paste
 
 Running the Simulator:
+
 Clone the Project:
+
 bash
+
 Copy code
 git clone https://github.com/your-username/rocket-launch-simulator.git
 cd rocket-launch-simulator

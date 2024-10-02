@@ -17,10 +17,7 @@ Welcome to the **Java Design Patterns Demonstrations** repository! This project 
     - [6. Adapter Pattern](#6-adapter-pattern)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  - [Compilation and Execution](#compilation-and-execution)
 
 ## Introduction
 
@@ -145,21 +142,9 @@ Follow these instructions to set up and run the project on your local machine.
 
 - **Java Development Kit (JDK):** Ensure you have JDK 8 or higher installed. You can download it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
-### Installation
+### Compilation and Execution
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/prasanth1919/java-design-patterns.git
-   ```
-
-2. **Navigate to the Project Directory:**
-
-   ```bash
-   cd java-design-patterns
-   ```
-
-3. **Compile the Java Files:**
+1. **Compile the Java Files:**
 
    Each design pattern is contained within its own Java file. You can compile them individually or all at once.
 
@@ -180,7 +165,7 @@ Follow these instructions to set up and run the project on your local machine.
      javac *.java
      ```
 
-4. **Run the Programs:**
+2. **Run the Programs:**
 
    Execute the compiled Java programs to see the design patterns in action.
 
@@ -219,5 +204,4 @@ Follow these instructions to set up and run the project on your local machine.
      ```bash
      java AdapterPattern
      ```
-
 
